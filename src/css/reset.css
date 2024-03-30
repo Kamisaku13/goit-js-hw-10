@@ -1,4 +1,16 @@
-/* Reset styles */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Montserrat, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  font-weight: 400;
+  color: #2E2F42;
+  background-color: transparent;
+}
+
 h1,
 h2,
 h3,
